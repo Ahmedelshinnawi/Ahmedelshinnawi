@@ -6,10 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src=https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=500&size=30&pause=1000&color=2E9C04&width=435&lines=Full-Stack+Web+Developer,;Computer+Science+Student"></a>
 </p>
 
-
 <br>
-
-
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW12aWRsdjIxZHAwNDF4eWM2Z3RtenoxZHFiOTRhOTJyazF6dWpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IkSSSgxxOhsvzqFiVu/giphy.gif" width="50"><b>About Me: </b>
 🔭 I’m currently a student in the Faculty of Computer Science<br>🌱 I’m currently learning full stack programming(Back-End in Node.JS)<br>📫 How to reach me: ahmedelshinnawi75@gmail.com
@@ -28,17 +25,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Ahmedelshinnawi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&width="400")
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedelshinnawi&theme=radical&hide_border=false&width="400")<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelshinnawi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&width="400")
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmedelshinnawi&theme=radical&hide_border=false&include_all_commits=false" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedelshinnawi&theme=radical&hide_border=false" width="400"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelshinnawi&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="400" >
 </div>
 <br>
-  
+
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=30 height=30><b> Socials </b>
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C)](https://facebook.com/ahmed.elshinnawi.142) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C)](https://linkedin.com/in/ahmed-elshinnawi-0b3037261) [![X](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C)](https://x.com/@elshinnawi14) 
-
-
