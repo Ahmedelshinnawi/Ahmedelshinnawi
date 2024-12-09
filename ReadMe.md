@@ -10,7 +10,7 @@
 <br>
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW12aWRsdjIxZHAwNDF4eWM2Z3RtenoxZHFiOTRhOTJyazF6dWpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IkSSSgxxOhsvzqFiVu/giphy.gif" width="50"><b>About Me: </b>
-🔭 I’m currently a student in the Faculty of Computer Science<br>🌱 I’m currently learning backend development <br>📫 How to reach me: ahmedelshinnawi75@gmail.com<br>⚡ Fun fact: The thing I discipline the most is lack of discipline.
+🔭 I’m currently a student in the Faculty of Computer & Information Sciences<br>🌱 I’m currently learning Backend Development <br>📫 How to reach me: ahmedelshinnawi75@gmail.com<br>⚡ Fun fact: The thing I discipline the most is lack of discipline.
 <br><br>
 
 
