@@ -4,13 +4,13 @@
 <h1 align="center"><b>Hi , I'm Ahmed Elshinnawi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src=https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=500&size=30&pause=1000&color=2E9C04&width=435&lines=Full-Stack+Web+Developer,;Computer+Science+Student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src=https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=500&size=30&pause=1000&color=2E9C04&width=435&lines=Backend+Developer,;Computer+Science+Student"></a>
 </p>
 
 <br>
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW12aWRsdjIxZHAwNDF4eWM2Z3RtenoxZHFiOTRhOTJyazF6dWpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IkSSSgxxOhsvzqFiVu/giphy.gif" width="50"><b>About Me: </b>
-🔭 I’m currently a student in the Faculty of Computer Science<br>🌱 I’m currently learning full stack programming(Back-End in Node.JS)<br>📫 How to reach me: ahmedelshinnawi75@gmail.com<br>⚡ Fun fact: The thing I discipline the most is lack of discipline.
+🔭 I’m currently a student in the Faculty of Computer Science<br>🌱 I’m currently learning backend development <br>📫 How to reach me: ahmedelshinnawi75@gmail.com<br>⚡ Fun fact: The thing I discipline the most is lack of discipline.
 <br><br>
 
 
